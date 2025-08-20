@@ -1,5 +1,4 @@
--- File: seeds/sample_marketing_campaigns.csv
 campaign_id,campaign_name,budget,status,target_audience,created_date,updated_date
 CAMP001,Summer Sale 2024,50000.00,ACTIVE,Young Adults,2024-01-15 10:00:00,2024-01-15 10:00:00
 CAMP002,Black Friday,75000.00,PAUSED,All Segments,2024-02-01 09:30:00,2024-02-15 14:20:00
-CAMP003,Spring Launch,30000.00,ACTIVE,Premium Users,2024-03-01 11:15:00,2024-03-01 11:15:00
+CAMP003,Spring Launch,30000.00,PAUSED,Premium Users,2024-03-01 11:15:00,2024-03-01 11:15:00
